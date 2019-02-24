@@ -1,2 +1,3 @@
-# Settings for Cura and Slic3r
+# Settings for Slic3r
+slic3r - config.ini
 
